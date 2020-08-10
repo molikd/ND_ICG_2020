@@ -9,8 +9,10 @@
 
 #### Course Number
 - 60132 
-#### Website
+#### Resources
 - [ND_ICG_2020](http://david.molik.co/ND_ICG_2020/)
+- [Code of Conduct](https://docs.google.com/document/d/19WQbWr_TMDqStCyfhpA4BJZllcCEK4CMt3dxwWGkeUg)
+- [Daily Feedback](https://docs.google.com/forms/d/1BACFIOS1Bd1DquipudU1TZk0Y9GreacObac6gPbg5tg)
 #### General Description:
 Massive amounts of data are being generated that biologists are now expected to analyze. In order to use this data to answer research questions, bioinformatics skills are necessary. The skills we will cover in this course center around manipulating big data, using and creating bioinformatic pipelines, and visualization of data. 
 
@@ -93,10 +95,10 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
 - Week Eleven: Population Genomics, I want to look at populations, what are some ways to do that?
   - Day One: Post Assembly - Calculating Genotypes
   - Day Two: Visualization of Genotypes
-Week Twelve: Population Genomics, More populations. 
-Day One - Julia Fitness Landscapes
-Day Two - Running Fitness Models in Julia
-Week Thirteen: Population Genomics, Still more Populations. 
-Day One - Time Zones, Coordinate Transformations 
-Day Two - Finding local optima 
-Week Fourteen: Final Project Presentations
+- Week Twelve: Population Genomics, More populations. 
+  - Day One - Julia Fitness Landscapes
+  - Day Two - Running Fitness Models in Julia
+- Week Thirteen: Population Genomics, Still more Populations. 
+  - Day One - Time Zones, Coordinate Transformations 
+  - Day Two - Finding local optima 
+- Week Fourteen: Final Project Presentations
