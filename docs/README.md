@@ -58,7 +58,11 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
   - Day One, Introduction, Syllabus, CRC login, Unix, time allowing: Julia
   - Day Two, Git, Github Homework Submission
     - Reading due: [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
-    - Reading question: What is git fork, what does it do? and why would you use it?
+      - Reading question: What is git fork, what does it do? and why would you use it?
+    - Admin due:
+      - Decide on CRC or local computer for Julia and Bioinformatics. 
+      - create a .vimrc for yourself
+      - create a .bashrc for yourself
 - Week Two: Assembly Part One - Introduction to a Assembly Pipeline, This week will demonstrate how to run assembly on the command line, specifically how to use a work queue manager, like SGE, which is in use at Notre Dame, to assemble reads into a de novo, we will then take our assembled genome and annotate it using an orthologs.
   - Day One: Scripting, Submission of Grid Computing de novo Assembly
   - Day Two: Annotation Job Submission, Genome Graphs
