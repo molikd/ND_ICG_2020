@@ -14,6 +14,7 @@
 - [Code of Conduct](https://docs.google.com/document/d/19WQbWr_TMDqStCyfhpA4BJZllcCEK4CMt3dxwWGkeUg)
 - [Daily Feedback](https://docs.google.com/forms/d/1BACFIOS1Bd1DquipudU1TZk0Y9GreacObac6gPbg5tg)
 #### General Description:
+
 Massive amounts of data are being generated that biologists are now expected to analyze. In order to use this data to answer research questions, bioinformatics skills are necessary. The skills we will cover in this course center around manipulating big data, using and creating bioinformatic pipelines, and visualization of data. 
 
 This class is aimed at people who may have some experience with computational biology, but still consider themselves beginners to the field. Computational biologists employ a vast array of methods and skills that often change with evolving technology. Our goal here is to focus on the most commonly used and widely applicable ones that can provide a solid foundation from where to grow. These skills include overall efficiency, building pipelines, and writing and reading code. After this course, students should be able to carry this knowledge to more specialized courses (e.g. algorithms, data structures, data visualization, GIS).
@@ -66,7 +67,11 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - create a .vimrc for yourself
       - create a .bashrc for yourself
 - Week Two: Assembly Part One - Introduction to a Assembly Pipeline, This week will demonstrate how to run assembly on the command line, specifically how to use a work queue manager, like SGE, which is in use at Notre Dame, to assemble reads into a de novo, we will then take our assembled genome and annotate it using an orthologs.
-  - Day One: Scripting, Submission of Grid Computing de novo Assembly
+  - Day One: Scripting, Submission of Grid Computing, *de novo* Assembly
+    - Practical due: 
+      - [Practical Repo One](https://github.com/molikd/ND_ICG_2020_Practical_One)
+    - Final project status update due:
+      - Email Chissa three datasets that you could use for the final project
   - Day Two: Annotation Job Submission, Genome Graphs
 - Week Three: Assembly Part Two - We now go deeper down the computational chain, looking under the hood of how an assembler works. This will focus again on creating assemblies, but specifically look at how to compute the same work in the Julia language. 
   - Day One - How an Assembler works, Genome Assembly in Julia 
