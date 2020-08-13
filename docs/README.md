@@ -57,7 +57,7 @@ The Navari Family for Digital Scholarship (cds@nd.edu) the Biology Librarian (Pa
 There will be lecture on Tuesdays and Thursdays, this will be augmented with a Lab/Pracitcal and Status Report due Monday night, and a Reading and sometimes admin due Wednesday night. 
 
 #### Schedule (see course website for updates) 
-- Week One: Introduction of “Introduction to Computational Genomics” This week will mostly be review of the Unix Command Line, and Git, but will set the groundwork for the Final Project, which is the majority of course grade, how to submit assignments, and introduce the main scripting language of the course, Julia, at just-in-time compiled analytical language similar to that of R or Python. 
+- Week One: Introduction of “Introduction to Computational Genomics” This week will mostly be review of the Unix Command Line, and Git, but will set the groundwork for the Final Project, which is the majority of course grade, how to submit assignments, and introduce the main scripting language of the course, Julia, a just-in-time compiled analytical language similar to that of R or Python. 
   - Day One, Introduction, Syllabus, CRC login, Unix, time allowing: Julia
   - Day Two, Git, Github Homework Submission
     - Reading due: [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
