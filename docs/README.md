@@ -70,6 +70,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
   - Day One: Scripting, Submission of Grid Computing, *de novo* Assembly
     - Practical due: 
       - [Practical Repo One](https://github.com/molikd/ND_ICG_2020_Practical_One)
+        - In order to complete the practical and gain access to the repo you will need email Dave your github username (dmolik @ nd.edu)
     - Final project status update due:
       - Email Chissa three datasets that you could use for the final project
   - Day Two: Annotation Job Submission, Genome Graphs
