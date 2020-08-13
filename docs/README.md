@@ -8,7 +8,7 @@
   - Michael Pfrender <mpfrende@nd.edu>
 
 #### Course Number
-- 60132 
+- BIOS 60132 
 #### Resources
 - [ND_ICG_2020](http://david.molik.co/ND_ICG_2020/)
 - [Code of Conduct](https://docs.google.com/document/d/19WQbWr_TMDqStCyfhpA4BJZllcCEK4CMt3dxwWGkeUg)
