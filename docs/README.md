@@ -77,7 +77,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Reading due: [Sequence assembly demystified](https://www.nature.com/articles/nrg3367)
     - Admin due:
       - install and use Julia to print fizz buzz
-        - [A blog article going over fizz buzz](http://blog.leahhanson.us/post/julia/julia-fizzbuzz.html)
+        - [A blog article going over fizz buzz](http://blog.leahhanson.us/post/julia/julia-fizzbuzz.html), also the answer is on the page if you get stuck. 
 - Week Three: Assembly Part Two - We now go deeper down the computational chain, looking under the hood of how an assembler works. This will focus again on creating assemblies, but specifically look at how to compute the same work in the Julia language. 
   - Day One - How an Assembler works, Genome Assembly in Julia 
   - Day Two - Julia Annotation, Genome Graphs
