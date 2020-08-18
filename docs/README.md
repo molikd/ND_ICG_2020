@@ -75,6 +75,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - Email Chissa three datasets that you could use for the final project
   - Day Two: Annotation Job Submission, Genome Graphs
     - Reading due: [Sequence assembly demystified](https://www.nature.com/articles/nrg3367)
+      - Reading question: What is N50 in the context of the article, how is it used, and how is it misused? 
     - Admin due:
       - install and use Julia to print fizz buzz
         - [A blog article going over fizz buzz](http://blog.leahhanson.us/post/julia/julia-fizzbuzz.html), also the answer is on the page if you get stuck. 
