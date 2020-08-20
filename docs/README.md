@@ -45,7 +45,7 @@ After successful completion of this course students will be able to: Complete in
 
 #### Office Hours
 - David Molik: by appointment, remote
-- Chissa Rivaldi: by appointment, remote
+- Chissa Rivaldi: Thursdays 3-4pm (remain on class zoom) or by appointment, remote
 
 #### Final Project
 Over the course of semester you will be expected to design and complete a final project, the final project can be completed in Teams, however, the amount of work expected from the final project will be linear for additional team members (i.e. two people are expected to work on a project requiring two peoples amount of work). During the class we will have weekly homeworks ensuring the completion of the final project, however, it is a good idea to come into the class with an idea of data resources available to you. The final project will consist of an analysis designed to answer a novel question of that data, and a PLoS style write-up.
