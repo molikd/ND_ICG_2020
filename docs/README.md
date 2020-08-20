@@ -117,3 +117,6 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
   - Day One - Time Zones, Coordinate Transformations 
   - Day Two - Finding local optima 
 - Week Fourteen: Final Project Presentations
+
+
+[Collection of Class notes on HackMD](https://hackmd.io/@NFpEogXySTuWExLvDQQHig/H1JqRVhzv)
