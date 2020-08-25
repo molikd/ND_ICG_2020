@@ -86,6 +86,10 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Final project status update due:
       - Email Chissa and Dave an abstract of a final project plan.
   - Day Two - Julia Annotation, Genome Graphs
+    - Reading due: [A beginner's guide to eukaryotic genome annotation](https://www.nature.com/articles/nrg3174)
+      - What is the difference between *Ab initio* gene prediction and Evidence based gene prediction? 
+    - Admin due:
+      - Put together final project group and email Dave & Chissa
 - Week Four: Assembly Part Three  - We will continue our descent down the computational chain, now we go still deeper, looking at the underlying algorithms that make assembly possible. 
   - Day One - String Comparisons, Distances
   - Day Two - Smith-Waterman, Other Assembly Methods
