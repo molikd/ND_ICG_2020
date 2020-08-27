@@ -95,12 +95,13 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Practical due:
       - [Practical Repo Three](https://github.com/molikd/ND_ICG_2020_Practical_Three)
     - Final project status update due:
-      - Email Chissa and Dave an extended project abstract with your project team covering:
-        - Team
-        - New Code Required 
-        - Activities Required 
-        - Data Used
-        - Question Asked
+      - make Chissa and Dave collaborators on a repo with an extended project abstract with your project team covering:
+        - AS a README.md in a project repo add:
+          - Team
+          - New Code Required 
+          - Activities Required 
+          - Data Used
+          - Question Asked
   - Day Two - Smith-Waterman, Other Assembly Methods
 - Week Five: SNPs Part One - Back up for air! We’ve learned about assemblies, time for something different, we’ll be looking at Single Nucleotide Polymorphisms, this week will focus on what a SNP pipeline looks like, and how to submit Grid Computing jobs for a SNP pipeline. 
   - Day One:  Read Quality/Trimming Filtering
