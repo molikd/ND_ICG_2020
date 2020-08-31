@@ -103,6 +103,9 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
           - Data Used
           - Question Asked
   - Day Two - Smith-Waterman, Other Assembly Methods
+    - Reading Due: [Basic Local Alignment Search Tool](https://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096/) [smithwaterman.jl](https://github.com/mattjones315/LocalAlignment.jl/blob/master/src/algorithms/smithwaterman.jl)
+      - Why are alignment algorithms faster than looping through both sequences (what makes them faster?) 
+    - Admin due: TBD
 - Week Five: SNPs Part One - Back up for air! We’ve learned about assemblies, time for something different, we’ll be looking at Single Nucleotide Polymorphisms, this week will focus on what a SNP pipeline looks like, and how to submit Grid Computing jobs for a SNP pipeline. 
   - Day One:  Read Quality/Trimming Filtering
   - Day Two: Variant Calling
