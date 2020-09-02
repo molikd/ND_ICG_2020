@@ -108,6 +108,10 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Admin due: Setup time to talk to Chissa/Dave about Final project. 
 - Week Five: SNPs Part One - Back up for air! We’ve learned about assemblies, time for something different, we’ll be looking at Single Nucleotide Polymorphisms, this week will focus on what a SNP pipeline looks like, and how to submit Grid Computing jobs for a SNP pipeline. 
   - Day One:  Read Quality/Trimming Filtering
+    - Pratical Due:
+      - [Pratical Repo Four](https://github.com/molikd/ND_ICG_2020_Practical_Four)
+    - Final project status update due:
+      - Please create a draft of your code for your final project, and send an update to Dave and Chissa (we will gove over what this means in class)
   - Day Two: Variant Calling
 - Week Six: SNPs Part Two, We've doen SNP calling on the command line, now we are going to turn around, and write our own pipeline in Julia
   - Day One: Julia version of building a SNP, Read Quality/Trimming Filtering
