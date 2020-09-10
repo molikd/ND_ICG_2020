@@ -113,8 +113,17 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Final project status update due:
       - Please create a draft of your code for your final project, and send an update to Dave and Chissa (we will gove over what this means in class)
   - Day Two: Variant Calling
+    - Admin due: take a breather
+    - Reading due: [Compression of FASTQ and SAM Format Sequencing Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059190)
+      - Second reading: [What is a SNP?](https://ghr.nlm.nih.gov/primer/genomicresearch/snp)
 - Week Six: SNPs Part Two, We've doen SNP calling on the command line, now we are going to turn around, and write our own pipeline in Julia
   - Day One: Julia version of building a SNP, Read Quality/Trimming Filtering
+    - Pratical Due:
+      - [Pratical Repo Five](https://github.com/molikd/ND_ICG_2020_Practical_Five)
+    - Final project status update due:
+      - Create Args for Julia Final project (what inputs and outputs are you going to need?)
+        - [Blog on how to create package](https://tlienart.github.io/pub/julia/dev-pkg.html)
+        - [Offical creating package page](https://julialang.github.io/Pkg.jl/v1/creating-packages/)
   - Day Two: Julia version of Variant Calling, 
 - Week Seven: SNPs Part Three, What's under the hood of SNP calling?
   - Day One: Frequency Estimation 
