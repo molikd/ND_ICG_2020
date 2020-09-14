@@ -124,7 +124,11 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - Create Args for Julia Final project (what inputs and outputs are you going to need?)
         - [Blog on how to create package](https://tlienart.github.io/pub/julia/dev-pkg.html)
         - [Offical creating package page](https://julialang.github.io/Pkg.jl/v1/creating-packages/)
-  - Day Two: Julia version of Variant Calling, 
+  - Day Two: Julia version of Variant Calling
+    - Admin due: install [VariantVisualization](https://github.com/compbiocore/VariantVisualization.jl)
+      - [VIVA (VIsualization of VAriants): A VCF File Visualization Tool](https://www.nature.com/articles/s41598-019-49114-z)
+    - Reading due: [SNPs in ecology, evolution and conservation](https://doi.org/10.1016/j.tree.2004.01.009)
+      - What is the difference between Qst and Fst when it comes to SNPs?
 - Week Seven: SNPs Part Three, What's under the hood of SNP calling?
   - Day One: Frequency Estimation 
   - Day Two: Key - Value stores 
