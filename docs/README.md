@@ -130,7 +130,9 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Reading due: [SNPs in ecology, evolution and conservation](https://doi.org/10.1016/j.tree.2004.01.009)
       - What is the difference between Qst and Fst when it comes to SNPs?
 - Week Seven: SNPs Part Three, What's under the hood of SNP calling?
-  - Day One: Frequency Estimation 
+  - Day One: Frequency Estimation
+    - Practical Die:
+      - [Practical Repo Six](https://github.com/molikd/ND_ICG_2020_Practical_Six)
   - Day Two: Key - Value stores 
 - Week Eight: Differential Expression Part One, Say I want to run a differential expression analysis analysis on some RNAseq data, how do I do that?
   - Day One - Creating the RNAseq expression table
