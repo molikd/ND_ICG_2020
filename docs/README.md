@@ -131,9 +131,12 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - What is the difference between Qst and Fst when it comes to SNPs?
 - Week Seven: SNPs Part Three, What's under the hood of SNP calling?
   - Day One: Frequency Estimation
-    - Practical Die:
+    - Practical Due:
       - [Practical Repo Six](https://github.com/molikd/ND_ICG_2020_Practical_Six)
   - Day Two: Key - Value stores 
+    - Reading due: [Mapping short DNA sequencing reads and callingvariants using mapping quality scores](https://genome.cshlp.org/content/19/6/1124.full.pdf) and [SNP detection for massively parallel whole-genome resequencing](SNP detection for massively parallel whole-genomeresequencing)
+      - This will require some research, but what are some faster ways to calculate Frequency?
+    - Admin due: [TBD - Chissa]
 - Week Eight: Differential Expression Part One, Say I want to run a differential expression analysis analysis on some RNAseq data, how do I do that?
   - Day One - Creating the RNAseq expression table
   - Day Two - Visualizing RNAseq expression
