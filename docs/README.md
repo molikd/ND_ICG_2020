@@ -118,7 +118,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - Second reading: [What is a SNP?](https://ghr.nlm.nih.gov/primer/genomicresearch/snp)
 - Week Six: SNPs Part Two, We've doen SNP calling on the command line, now we are going to turn around, and write our own pipeline in Julia
   - Day One: Julia version of building a SNP, Read Quality/Trimming Filtering
-    - Pratical Due:
+    - Practical Due:
       - [Pratical Repo Five](https://github.com/molikd/ND_ICG_2020_Practical_Five)
     - Final project status update due:
       - Create Args for Julia Final project (what inputs and outputs are you going to need?)
@@ -139,6 +139,10 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Admin due: [TBD - Chissa]
 - Week Eight: Differential Expression Part One, Say I want to run a differential expression analysis analysis on some RNAseq data, how do I do that?
   - Day One - Creating the RNAseq expression table
+    - Practical Due:
+      - [Practical Repo Seven](https://github.com/molikd/ND_ICG_2020_Practical_Seven)
+    - Final project status update due:
+      - Schedule a 20min meeting with Chissa and Dave
   - Day Two - Visualizing RNAseq expression
 - Week Nine: Differential Expression Part Two, Now that we know how to run a differential expression analysis, lets look deeper and do it in Julia. 
   - Day One - Julia RNAseq expression table
