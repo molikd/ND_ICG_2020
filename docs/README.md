@@ -144,6 +144,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Final project status update due:
       - Schedule a 20min meeting with Chissa and Dave
     - Reading Due: [RNA-seq workflow: gene-level exploratory analysis and differential expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
+      - Reading Question: Out of this giant page of analyses, which are the most important to you to learn how to do with RNA-Seq data? 
   - Day Two - Visualizing RNAseq expression
 - Week Nine: Differential Expression Part Two, Now that we know how to run a differential expression analysis, lets look deeper and do it in Julia. 
   - Day One - Julia RNAseq expression table
