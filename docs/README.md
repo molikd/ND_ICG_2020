@@ -143,6 +143,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - [Practical Repo Seven](https://github.com/molikd/ND_ICG_2020_Practical_Seven)
     - Final project status update due:
       - Schedule a 20min meeting with Chissa and Dave
+    - Reading Due: [RNA-seq workflow: gene-level exploratory analysis and differential expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
   - Day Two - Visualizing RNAseq expression
 - Week Nine: Differential Expression Part Two, Now that we know how to run a differential expression analysis, lets look deeper and do it in Julia. 
   - Day One - Julia RNAseq expression table
