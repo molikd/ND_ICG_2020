@@ -138,7 +138,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - This will require some research, but what are some faster ways to calculate Frequency?
     - Admin due: [TBD - Chissa]
 - Week Eight: Differential Expression Part One, Say I want to run a differential expression analysis analysis on some RNAseq data, how do I do that?
-  - Day One - Creating the RNAseq expression table
+  - Day One - [Creating the RNAseq expression table](https://hackmd.io/@NFpEogXySTuWExLvDQQHig/SkwWM4WHv)
     - Practical Due:
       - [Practical Repo Seven](https://github.com/molikd/ND_ICG_2020_Practical_Seven)
     - Final project status update due:
