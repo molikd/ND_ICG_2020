@@ -143,12 +143,16 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
       - [Practical Repo Seven](https://github.com/molikd/ND_ICG_2020_Practical_Seven)
     - Final project status update due:
       - Schedule a 20min meeting with Chissa and Dave
+  - Day Two - Visualizing RNAseq expression
     - Reading Due: [RNA-seq workflow: gene-level exploratory analysis and differential expression](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
       - Reading Question: Out of this giant page of analyses, which are the most important to you to learn how to do with RNA-Seq data? 
-  - Day Two - Visualizing RNAseq expression
 - Week Nine: Differential Expression Part Two, Now that we know how to run a differential expression analysis, lets look deeper and do it in Julia. 
   - Day One - Julia RNAseq expression table
+      - Practical Due:
+        - [Practical Repo Eight](https://github.com/crivaldi/ND_ICG_2020_Practical_Eight)
   - Day Two - Julia RNAseq Visualization
+      - Reading Due: [Single-cell full-length total RNA sequencing uncovers dynamics of recursive splicing and enhancer RNAs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809388/)
+        - Reading question: Use the paper and the supplementary code to describe what Normalized Coverage is, this will involve you looking at the code. 
 - Week Ten: Differential Expression Part Three, What is this clustering thing anyway?
   - Day One - Ordination
   - Day Two - Clustering 
