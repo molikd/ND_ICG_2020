@@ -155,6 +155,8 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
         - Reading question: Use the paper and the supplementary code to describe what Normalized Coverage is, this will involve you looking at the code. 
 - Week Ten: Differential Expression Part Three, What is this clustering thing anyway?
   - Day One - Ordination
+    - Practical Due:
+      - [Practical Repo Nine](https://github.com/molikd/ND_ICG_2020_Practical_Nine)
   - Day Two - Clustering 
 - Week Eleven: Population Genomics, I want to look at populations, what are some ways to do that?
   - Day One: Post Assembly - Calculating Genotypes
