@@ -158,6 +158,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Practical Due:
       - [Practical Repo Nine](https://github.com/molikd/ND_ICG_2020_Practical_Nine)
   - Day Two - Clustering 
+    - Reading Due: [What is Principal Component Analysis?](https://www.nature.com/articles/nbt0308-303)
 - Week Eleven: Population Genomics, I want to look at populations, what are some ways to do that?
   - Day One: Post Assembly - Calculating Genotypes
   - Day Two: Visualization of Genotypes
