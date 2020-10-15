@@ -162,7 +162,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
 - Week Eleven: Population Genomics, I want to look at populations, what are some ways to do that?
   - Day One: Post Assembly - Calculating Genotypes
       - Practical Due:
-        - [Practical Repo Ten](https://github.com/crivaldi/ND_ICG_2020_Practical_Ten)
+        - [Practical Repo Ten](https://github.com/molikd/ND_ICG_2020_Practical_Ten)
   - Day Two: Visualization of Genotypes
 - Week Twelve: Population Genomics, More populations. 
   - Day One - Julia Fitness Landscapes
