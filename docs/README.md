@@ -136,7 +136,6 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
   - Day Two: Key - Value stores 
     - Reading due: [Mapping short DNA sequencing reads and callingvariants using mapping quality scores](https://genome.cshlp.org/content/19/6/1124.full.pdf) and [SNP detection for massively parallel whole-genome resequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2694485/)
       - This will require some research, but what are some faster ways to calculate Frequency?
-    - Admin due: [TBD - Chissa]
 - Week Eight: Differential Expression Part One, Say I want to run a differential expression analysis analysis on some RNAseq data, how do I do that?
   - Day One - [Creating the RNAseq expression table](https://hackmd.io/@NFpEogXySTuWExLvDQQHig/SkwWM4WHv)
     - Practical Due:
