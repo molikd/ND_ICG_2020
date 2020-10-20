@@ -161,11 +161,15 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Reading Due: [What is Principal Component Analysis?](https://www.nature.com/articles/nbt0308-303)
 - Week Eleven: Population Genomics, I want to look at populations, what are some ways to do that?
   - Day One: Post Assembly - Calculating Genotypes
-      - Practical Due:
-        - [Practical Repo Ten](https://github.com/molikd/ND_ICG_2020_Practical_Ten)
+    - Practical Due:
+      - [Practical Repo Ten](https://github.com/molikd/ND_ICG_2020_Practical_Ten)
   - Day Two: Visualization of Genotypes
+    - Reading Due: [The Variety of Genes in the Gene Pool Can Be Quantified within a Population](https://www.nature.com/scitable/topicpage/the-variety-of-genes-in-the-gene-6526291/#)
+      - Reading question: What are the differences between allele frequency, genotype frequency, and phenotype frequency?
 - Week Twelve: Population Genomics, More populations. 
   - Day One - Julia Fitness Landscapes
+    - Final project status update due:
+      - email Chissa and Dave a 350ish word or less on the status of your final project. 
   - Day Two - Running Fitness Models in Julia
 - Week Thirteen: Population Genomics, Still more Populations. 
   - Day One - Time Zones, Coordinate Transformations 
