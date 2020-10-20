@@ -52,6 +52,18 @@ Over the course of semester you will be expected to design and complete a final 
 
 The Navari Family for Digital Scholarship (cds@nd.edu) the Biology Librarian (Parker Ladwig: ladwig.1@nd.edu) and the head of the Genomics and Bioinformatics Core (Mike Pfrender: mpfrende@nd.edu) are all excellent resources for genomics data resources. Genomics data is often closer than you realize, your advisor and senior labmates might be a great resource as well. 
 
+##### Final Project
+
+You should be as concise and short as possible in the write-up, it should be no longer than 12 pages double spaced (something like eight is preferred), 12pt font not including references. Think PLOS Short Report or PLOS Resources. It should hover around three figures. See [Here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000248) and [Here](https://journals.plos.org/ploscompbiol/s/submission-guidelines#loc-methods-submissions) for details. 
+
+you should submit the final paper through https://www.overleaf.com/ a Latex editor, using the PLOS latex format https://journals.plos.org/plosone/s/latex by adding Chissa and I as collaborators. 
+
+You will be graded as follows:
+  - %10 Merit of the Question
+  - %30 Presentation 
+  - %30 Paper
+  - %30 Code
+
 #### Course Flow
 
 There will be lecture on Tuesdays and Thursdays, this will be augmented with a Lab/Pracitcal and Status Report due Monday night, and a Reading and sometimes admin due Wednesday night. 
