@@ -181,7 +181,7 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
   - Day One - Julia Fitness Landscapes
     - Final project status update due:
       - email Chissa and Dave a 350ish word or less on the status of your final project. 
-  - Day Two - Running Fitness Models in Julia
+  - Day Two - Guest Lecture - Pavel Dimens
 - Week Thirteen: Population Genomics, Still more Populations. 
   - Day One - Time Zones, Coordinate Transformations 
   - Day Two - Finding local optima 
