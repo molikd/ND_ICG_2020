@@ -182,6 +182,8 @@ There will be lecture on Tuesdays and Thursdays, this will be augmented with a L
     - Final project status update due:
       - email Chissa and Dave a 350ish word or less on the status of your final project. 
   - Day Two - Guest Lecture - Pavel Dimens
+    - Reading Due: [Estimating Genetic Relatedness in Admixed Populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169378/)
+      - Reading question: none-make sure you have a vague concept of Relatedness for lecture. 
 - Week Thirteen: Population Genomics, Still more Populations. 
   - Day One - Time Zones, Coordinate Transformations 
   - Day Two - Finding local optima 
